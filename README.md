@@ -1,1 +1,1 @@
-# StandardDevition
+# StandardDevition in R
